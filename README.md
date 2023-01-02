@@ -1,4 +1,4 @@
-# FORESTBOOK: NOTEBOOK FOR THE WAKING HIKER
+# FORESTBOOK: Notebook For The Waking Hiker
 ## Overview
 This following repo contains a project that allows a user to keep track of the observations they make in the forest in a notebook. The idea is to take on the role of a forest hiker. During a relaxing Sunday morning walk, you will come face to face with a number of animals and plants. Closely you measure all the characteristics of the animals and plants. And keep track of these animals and plants in your notebook
 ## Guidelines
